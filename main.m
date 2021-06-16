@@ -23,7 +23,7 @@
 % Inputs:
 % dataFolder = '';
 % age = [10 12]';
-% gender = [0 1]';
+% sex = [0 1]';
 % ref_idx = [0 1];
 
 % Load cortical thickness
