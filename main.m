@@ -22,9 +22,9 @@
 
 % Inputs:
 % dataFolder = '';
-% age = [10 12]';
-% sex = [0 1]';
-% ref_idx = [0 1];
+% age = []';
+% sex = []';
+% ref_idx = [];
 
 % Load cortical thickness
 [LHCT, RHCT, LH_RVOL, RH_RVOL] = loaddata(dataFolder);
