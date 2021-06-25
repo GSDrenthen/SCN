@@ -10,7 +10,7 @@
 %       subject02 /                
 %               freesurfer/subject02/stats/lh.aparc.stats
 %               freesurfer/subject02/stats/lh.aparc.stats
-%       etc..
+%       etc...
 %
 % Age and gender column vecotrs are required for preprocessing. 
 % Last, an index variable is required to identify the reference group, a 
