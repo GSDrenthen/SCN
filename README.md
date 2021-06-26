@@ -1,2 +1,2 @@
 # SCN
-Estimation of individual distance-based structural covariance networks
+Estimation of individual distance-based structural covariance networks (SCNs)
