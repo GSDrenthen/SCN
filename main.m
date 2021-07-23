@@ -43,3 +43,5 @@ for nn = 1:length(sub_idx)
     Atmp(Atmp < 0) = 0;
     A(:,:,sub_idx) = Atmp;
 end
+
+% A is now a 3D matrix, where A(:,:,1) is the SCN for subject 1 etc..
